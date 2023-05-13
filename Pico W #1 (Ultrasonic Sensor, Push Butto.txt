@@ -1,0 +1,16 @@
+Pico W #1 (Ultrasonic Sensor, Push Button, Buzzer, LED):
+
+Connect the ultrasonic sensor to Pico W #1:
+VCC of the ultrasonic sensor to 3V3 on Pico W #1.
+GND of the ultrasonic sensor to GND on Pico W #1.
+Trig of the ultrasonic sensor to GP0 on Pico W #1.
+Echo of the ultrasonic sensor to GP1 on Pico W #1.
+Connect the push button to Pico W #1:
+Connect one terminal of the push button to GP2 on Pico W #1.
+Connect the other terminal of the push button to GND on Pico W #1.
+Connect the buzzer to Pico W #1:
+Connect the positive terminal of the buzzer to GP3 on Pico W #1.
+Connect the negative terminal of the buzzer to GND on Pico W #1.
+Connect an LED to Pico W #1:
+Connect the anode (longer leg) of the LED to GP4 on Pico W #1.
+Connect the cathode (shorter leg) of the LED to GND on Pico W #1.

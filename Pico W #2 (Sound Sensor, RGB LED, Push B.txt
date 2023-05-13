@@ -1,0 +1,15 @@
+Pico W #2 (Sound Sensor, RGB LED, Push Button, Buzzer):
+
+Connect the sound sensor to Pico W #2:
+VCC of the sound sensor to 3V3 on Pico W #2.
+GND of the sound sensor to GND on Pico W #2.
+Analog output of the sound sensor to GP0 on Pico W #2.
+Connect the RGB LED to Pico W #2:
+Connect the common cathode of the RGB LED to GND on Pico W #2.
+Connect the red, green, and blue anode terminals of the RGB LED to GP1, GP2, and GP3 on Pico W #2, respectively.
+Connect the push button to Pico W #2:
+Connect one terminal of the push button to GP4 on Pico W #2.
+Connect the other terminal of the push button to GND on Pico W #2.
+Connect the buzzer to Pico W #2:
+Connect the positive terminal of the buzzer to GP5 on Pico W #2.
+Connect the negative terminal of the buzzer to GND on Pico W #2.
